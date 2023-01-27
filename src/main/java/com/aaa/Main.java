@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("third ");
+
+        System.out.println("hot-fix");
     }
 }
