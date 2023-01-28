@@ -10,5 +10,7 @@ public class Main {
         System.out.println("third ");
 
         System.out.println("master test");
+
+        System.out.println("push test");
     }
 }
